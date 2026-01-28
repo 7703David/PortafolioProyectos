@@ -3,7 +3,7 @@ package Auto;
 
 public class Auto {
 	
-	//declaración de atributos
+	//declaraciï¿½n de atributos
 	String marca;
 	String color;
 	int anio;
@@ -12,12 +12,12 @@ public class Auto {
 	//uso variables booleanas
 	boolean estado = false;
 	
-	//Declaración del constructor
+	//Declaraciï¿½n del constructor
 	public Auto() {
-		System.out.println("Se ha creado el objeto Auto");
+		System.out.println("Se ha creado el objeto Auto!!");
 	}
 	
-	//Métodos; encender, mover, apagar
+	//Mï¿½todos; encender, mover, apagar
 	void color(String marca,String color) {
 		System.out.println("La marca del auto es "+marca);
 		System.out.println("El color del auto es: "+color);
@@ -28,7 +28,7 @@ public class Auto {
 	
 	public void encender() {
 		if(estado==true) {
-			System.out.println("El Auto ya está encendido");
+			System.out.println("El Auto ya estï¿½ encendido");
 		}
 		else {
 			System.out.println("El Auto se ha encendido");
@@ -37,10 +37,10 @@ public class Auto {
 	}
 	public void avanzar() {
 		if(estado=true) {
-			System.out.println("El Auto está avanzado");
+			System.out.println("El Auto estï¿½ avanzado");
 		}
 		else {
-			System.out.println("El Auto no puede avanzado, está apagado");
+			System.out.println("El Auto no puede avanzado, estï¿½ apagado");
 		}
 	}
 	public void apagar() {
@@ -49,7 +49,7 @@ public class Auto {
 			estado=false;
 		}
 		else {
-			System.out.println("El Auto ya está apagado");
+			System.out.println("El Auto ya estï¿½ apagado");
 		}
 	}
 	
