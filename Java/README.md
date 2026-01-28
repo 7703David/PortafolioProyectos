@@ -44,3 +44,38 @@ Este proyecto demuestra:
 ---
 
 Este conjunto de proyectos refleja el progreso en el dominio del lenguaje Java, pasando desde ejercicios básicos de programación hasta aplicaciones con interfaces gráficas y sistemas de comunicación en red, mostrando una evolución técnica sólida y organizada.
+
+
+---
+
+## Proyectos de Encriptación
+
+Este portafolio también incluye dos proyectos pequeños enfocados en criptografía básica, orientados a comprender los principios de seguridad de la información y protección de datos:
+
+###  Cifrado César
+Proyecto que implementa el algoritmo de cifrado César, uno de los métodos de encriptación más clásicos, basado en el desplazamiento de caracteres dentro del alfabeto.
+
+Permite:
+- Encriptar mensajes.
+- Desencriptar mensajes.
+- Comprender el concepto de cifrado por sustitución.
+- Analizar debilidades de los cifrados clásicos.
+
+---
+
+###  Cifrado RSA
+Proyecto que implementa el algoritmo RSA, uno de los sistemas de criptografía asimétrica más utilizados.
+
+Incluye:
+- Generación de claves pública y privada.
+- Encriptación mediante clave pública.
+- Desencriptación mediante clave privada.
+- Introducción práctica a conceptos como:
+  - Números primos
+  - Modularidad
+  - Seguridad criptográfica
+  - Criptografía moderna
+
+---
+
+Estos proyectos fortalecen la base en ciberseguridad y criptografía, mostrando la transición desde algoritmos clásicos hasta esquemas de seguridad usados en sistemas reales.
