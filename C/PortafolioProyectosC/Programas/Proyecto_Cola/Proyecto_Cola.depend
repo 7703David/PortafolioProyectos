@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1653363807 source:c:\users\david\desktop\u\estructuras de datos\programas\proyecto_cola\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653406162 source:d:\proyecto_cola\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653405128 source:e:\proyecto_cola\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

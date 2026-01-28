@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647358458 source:d:\desktop\u\estructura_datos\programas\struct_notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1647358500 source:e:\desktop\u\estructura_datos\programas\struct_notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648956864 source:c:\users\david\desktop\u\estructuras de datos\programas\laboratorio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

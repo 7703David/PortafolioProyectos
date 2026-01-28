@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1653404436 source:d:\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1653404856 source:e:\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1664325633 source:c:\users\david\desktop\u\iii\estructuras de datos\programas\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

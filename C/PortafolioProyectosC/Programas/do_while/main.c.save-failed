@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int dinero, cervezas, precio_cerveza,i;
+    precio_cerveza=30000;
+    cervezas=1;
+    printf("Cuanto dinero tiene?\n");
+    scanf("%d",&dinero);
+    printf("\n");
+
+    do{
+       dinero-precio_cerveza;
+       printf("Pido %d cervezas\nLe quedan: $%d\n",cervezas++,dinero);
+    }while(cervezas<=5);
+    return 0;
+}

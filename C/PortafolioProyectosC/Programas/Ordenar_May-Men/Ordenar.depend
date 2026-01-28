@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645110208 source:c:\users\tp201\desktop\ordenar\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645111752 source:d:\desktop\u\estructura_datos\programas\ordenar_may-men\main.c
+	<stdio.h>
+	<stdlib.h>
+

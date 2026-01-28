@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1646148154 source:d:\desktop\u\estructura_datos\programas\buscador\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646267398 source:f:\desktop\u\estructura_datos\programas\buscador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
